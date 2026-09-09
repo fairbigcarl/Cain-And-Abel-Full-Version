@@ -239,4 +239,4 @@ This repository serves as the official landing page for Cain & Abel. The softwar
 **Get the most recent version of Cain & Abel today!**
 
 ---
-**Last updated:** 2026-09-08 23:14:43 UTC
+**Last updated:** 2026-09-09 03:45:44 UTC
